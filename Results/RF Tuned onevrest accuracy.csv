@@ -1,0 +1,226 @@
+,Species,Species ID,auc_roc,accuracy,Model,Params
+0,Tadarida brasiliensis,41301,0.8834724160867387,0.6825023518344309,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Thryomanes bewickii,7576,0.909177638275549,0.7518814675446849,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Anaxyrus boreas,64970,0.9375520867472588,0.8835841956726247,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Charadrius vociferus,4793,,0.6197083725305739,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Baeolophus bicolor,13632,0.9851077787867594,0.9421448730009407,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Megascops asio,19765,0.9481796550706012,0.7262464722483537,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Melanerpes erythrocephalus,18204,0.9653745511414766,0.8748824082784572,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Scaphiopus couchii,26691,0.9664364108053892,0.9454374412041392,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Elgaria multicarinata,32055,0.9789689072139571,0.9849482596425212,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Odocoileus hemionus,42220,0.9611095057631991,0.882173095014111,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Poecile atricapillus,144815,0.9485526515937986,0.8405456255879586,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Chamaea fasciata,15256,0.9828983984007057,0.9821260583254939,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Athene cunicularia,19975,0.9179955375367672,0.6886171213546566,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Lanius ludovicianus,12024,0.8970938758016866,0.5091721542803387,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Otospermophilus variegatus,180008,0.9698297098864551,0.9332079021636877,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Sylvilagus audubonii,43115,0.9058322485131582,0.7996237064910631,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Urosaurus ornatus,36107,0.9635162183226782,0.9435559736594544,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Nucifraga columbiana,8520,0.908626740751968,0.8758231420507996,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Quiscalus quiscula,9602,0.9270268538471776,0.7123706491063029,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Molothrus ater,10373,,0.6131232361241769,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Alligator mississippiensis,26159,0.9721787238309255,0.9475540921919097,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Eurycea lucifuga,27123,0.9791566166255018,0.9604891815616181,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Sayornis saya,17009,0.928839867833605,0.742238946378175,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Spizella pusilla,9152,0.9285503114771407,0.8351364063969896,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Phrynosoma hernandesi,36315,0.955011960729182,0.8769990592662277,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Contopus sordidulus,16079,0.9909185032064227,0.9172154280338665,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Tyrannus tyrannus,16782,0.9547883723190715,0.8530103480714958,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Taricha torosa,27818,0.9928185406925083,0.9948259642521167,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Cardinalis sinuatus,9081,0.9833990984433463,0.9755409219190969,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Nerodia rhombifer,29310,0.980243422741459,0.940733772342427,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Coragyps atratus,4765,0.9635372299205953,0.9395578551269991,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Icteria virens,10243,0.7309426225456759,0.6251175917215428,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Tamias striatus,46217,0.9607935045198601,0.8330197554092192,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Falco sparverius,4665,,0.3417215428033866,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Spinus tristis,145310,,0.5310442144873001,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Troglodytes aedon,7562,0.6655533768593735,0.47013170272812793,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Stelgidopteryx serripennis,11970,0.9184224504249292,0.485653809971778,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Odocoileus virginianus,42223,0.895607554104737,0.7067262464722484,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Spinus psaltria,145308,0.9298293642851636,0.8047977422389464,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Haemorhous purpureus,199841,0.9406758273864573,0.7770460959548448,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Larus occidentalis,4345,0.9910370938472174,0.9924741298212606,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Gambelia wislizenii,62797,0.9609979889391654,0.9301505174035748,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Cardinalis cardinalis,9083,0.940232656548156,0.8532455315145814,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Calamospiza melanocorys,10585,0.9484292465943842,0.8779397930385701,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base
+0,Pooecetes gramineus,10168,0.7670713473102552,0.6446378174976481,"GridSearchCV(cv=5, estimator=RandomForestClassifier(),
+             param_grid={'max_depth': [3, 5, 10],
+                         'max_features': ['auto', 'sqrt'],
+                         'n_estimators': [50, 100, 200]},
+             scoring='roc_auc')",base

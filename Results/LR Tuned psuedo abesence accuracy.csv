@@ -1,0 +1,181 @@
+,Species,Species ID,auc_roc,accuracy,Model,Params
+0,Tadarida brasiliensis,41301,0.9031109008675877,0.731420507996237,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 0.1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Thryomanes bewickii,7576,0.8382167269566854,0.7815145813734713,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Anaxyrus boreas,64970,0.894638752071765,0.8548918156161807,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Charadrius vociferus,4793,,0.617826904985889,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Baeolophus bicolor,13632,0.9511941468332753,0.8807619943555973,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Megascops asio,19765,0.7693986603446978,0.6895578551269991,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Melanerpes erythrocephalus,18204,0.8289027514457152,0.7377704609595485,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Scaphiopus couchii,26691,0.9365602908698125,0.8826434619002822,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 0.1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Elgaria multicarinata,32055,0.969030292773735,0.9395578551269991,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Odocoileus hemionus,42220,0.9609913742995977,0.8748824082784572,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Poecile atricapillus,144815,0.7501471719774784,0.6516933207902164,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Chamaea fasciata,15256,0.9858540505572484,0.9644873000940734,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Athene cunicularia,19975,0.9014042826445268,0.6888523047977423,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Lanius ludovicianus,12024,0.8370060155209625,0.39063969896519285,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 0.1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Otospermophilus variegatus,180008,0.9381967745878541,0.8774694261523989,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Sylvilagus audubonii,43115,0.9399777930928861,0.8182031984948259,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Urosaurus ornatus,36107,0.9120898811234621,0.8396048918156162,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 0.01, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Nucifraga columbiana,8520,0.9504006255683852,0.8847601128880527,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Quiscalus quiscula,9602,0.690268835478935,0.6140639698965192,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Molothrus ater,10373,,0.6745061147695203,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Alligator mississippiensis,26159,0.9812600925746877,0.9494355597365945,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Eurycea lucifuga,27123,0.9544652734897601,0.8988711194731891,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Sayornis saya,17009,0.9231412993409396,0.730244590780809,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Spizella pusilla,9152,0.8734718798345522,0.8029162746942615,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Phrynosoma hernandesi,36315,0.9058354809713685,0.8097365945437441,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Contopus sordidulus,16079,0.9598686394858114,0.861241768579492,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Tyrannus tyrannus,16782,0.6888526143150508,0.651928504233302,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Taricha torosa,27818,0.9922601446003099,0.9811853245531514,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Cardinalis sinuatus,9081,0.9628710195081877,0.9115710253998118,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 0.1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Nerodia rhombifer,29310,0.9306021296594744,0.8706491063029163,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Coragyps atratus,4765,0.9770533614343747,0.908513640639699,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Icteria virens,10243,0.7012078111314752,0.5983066792097836,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Tamias striatus,46217,0.894037110430553,0.784101599247413,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Falco sparverius,4665,,0.4983537158984008,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Spinus tristis,145310,,0.5933678269049859,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Troglodytes aedon,7562,0.372018358508048,0.548447789275635,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Stelgidopteryx serripennis,11970,0.534466477809254,0.5555032925682032,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Odocoileus virginianus,42223,0.5972520555170617,0.5583254938852305,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Spinus psaltria,145308,0.9068188315290687,0.837958607714017,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Haemorhous purpureus,199841,0.7103800019324471,0.6453433678269049,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Larus occidentalis,4345,0.9924494469408918,0.9804797742238947,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Gambelia wislizenii,62797,0.9670235401853048,0.9245061147695203,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Cardinalis cardinalis,9083,0.8858559463833758,0.7626999059266227,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Calamospiza melanocorys,10585,0.9200978510206789,0.8605362182502352,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
+0,Pooecetes gramineus,10168,0.43748740451812124,0.6526340545625587,"GridSearchCV(cv=5, estimator=LogisticRegression(max_iter=500),
+             param_grid={'C': [0.01, 0.1, 1, 10], 'penalty': ['l1', 'l2'],
+                         'solver': ['liblinear', 'saga']},
+             scoring='roc_auc')","{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}"
